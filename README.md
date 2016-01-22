@@ -1,4 +1,4 @@
-My Awesome Book
+我心中的前端知识体系
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+整个书籍，主要是为了构建我自己心目中的前端知识体系。
