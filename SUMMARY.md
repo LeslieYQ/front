@@ -1,13 +1,9 @@
 # 前端知识体系
 
-* [核心知识](core.md)
+- [核心知识](core.md)
 
-* [工程构建](project.md)
+- [工程构建](project.md)
 
-* [编程基石](base.md)
+- [编程基石](base.md)
 
-* [特殊扩展](special.md)
-
-## 体系思维导图
-
-还缺一张图片
+- [特殊扩展](special.md)
